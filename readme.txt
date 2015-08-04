@@ -99,6 +99,11 @@
 | |) / -_) V / -_) / _ \ '_ \/ -_) '_| | (_ | || | / _` / -_)
 |___/\___|\_/\___|_\___/ .__/\___|_|    \___|\_,_|_\__,_\___|
                        |_|       
+        Register to the forum
+        
+                The Melee HD forum will function as a communication point for texture work
+                This forum can be found at the URL http://meleehd.boards.net
+
 	Dumping textures
 
 		Launch the Dolphin emulator
@@ -119,6 +124,9 @@
 
 	Remaking textures: specifications
 
+                You should first make sure you are not working on a texture on which someone else is working
+                You can make sure of this by checking http://meleehd.boards.net/thread/2/on-textures-working
+                If your texture is unclaimed, it is most organized for everyone for you to claim it there
 		Remade textures should be 16 times longer on each axis and enumerate at 256 times the pixels
 		They should be placed in folders where the folder names describe the purpose of the textures
 		These folders should be subfolders in a logical hierarchy to be determined by the developers
