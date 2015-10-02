@@ -1,3 +1,4 @@
-For information about this project, visit the interactive guide at the below link:
+For further information about this project, visit the guide and forum.
 
-http://slides.com/meleehd/meleehd
+Guide: http://slides.com/meleehd/meleehd
+Forum: http://meleehd.boards.net
